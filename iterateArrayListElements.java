@@ -5,6 +5,7 @@ public class PracticeJava2 {
 	public static void main(String[] args) {
 
 		// Write a java program to iterate through all elements in an array list.
+		// This practice is from w3resource.com
 
 		ArrayList<String> names = new ArrayList<String>();
 		names.add("Jemma");
