@@ -6,6 +6,7 @@ public class PracticeJava2 {
 
 		// Write a java program to create an array list, add some colors (strings)
 		// and print out the collection.
+		// This practice is from w3resource.com
 
 		ArrayList<String> colors = new ArrayList<String>();
 		colors.add("red");
